@@ -1,6 +1,8 @@
 # HW-10
 
-Following is the description of MOBA game "League of Legends." Fix 10 spelling errors within description.
+Following is the description of MOBA game "League of Legends." Fix 10 spelling errors within description
+
+----------------------------------------------------------------------------------------------------------------
 
 
 League of Legends (LoL) is a multiplayer online battle arena (MOBA) game devloped by Riot Games and first releaed in 2009. It has become one of the most popular esports titles wroldwide, known for its combination of simple mechanics, deep strategic complxity, and the necessity of teamwork.
